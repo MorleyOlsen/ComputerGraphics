@@ -1,0 +1,9 @@
+﻿  2.1.cpp
+C:\Users\86158\Desktop\Morley学习资料\图形学实验\图形学实验5\Exp5\Exp5\2.1.cpp(71,54): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\Morley学习资料\图形学实验\图形学实验5\Exp5\Exp5\2.1.cpp(71,69): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\Morley学习资料\图形学实验\图形学实验5\Exp5\Exp5\2.1.cpp(72,54): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\Morley学习资料\图形学实验\图形学实验5\Exp5\Exp5\2.1.cpp(72,69): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\Morley学习资料\图形学实验\图形学实验5\Exp5\Exp5\2.1.cpp(115,45): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\Morley学习资料\图形学实验\图形学实验5\Exp5\Exp5\2.1.cpp(116,45): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\Morley学习资料\图形学实验\图形学实验5\Exp5\Exp5\2.1.cpp(117,45): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Exp5.vcxproj -> C:\Users\86158\Desktop\Morley学习资料\图形学实验\图形学实验5\Exp5\x64\Debug\Exp5.exe

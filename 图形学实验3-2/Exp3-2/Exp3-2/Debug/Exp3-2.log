@@ -1,0 +1,6 @@
+﻿  3-2.cpp
+C:\Users\86158\Desktop\Exp3-2\Exp3-2\3-2.cpp(139,65): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\Exp3-2\Exp3-2\3-2.cpp(139,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\Exp3-2\Exp3-2\3-2.cpp(139,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\Exp3-2\Exp3-2\3-2.cpp(139,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Exp3-2.vcxproj -> C:\Users\86158\Desktop\Exp3-2\Debug\Exp3-2.exe

@@ -1,0 +1,12 @@
+﻿  1.cpp
+C:\Users\86158\Desktop\Exp3-1\Exp3-1\1.cpp(29,18): warning C4244: “+=”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\Exp3-1\Exp3-1\1.cpp(30,18): warning C4244: “+=”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\Exp3-1\Exp3-1\1.cpp(31,18): warning C4244: “+=”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\Exp3-1\Exp3-1\1.cpp(32,18): warning C4244: “+=”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\Exp3-1\Exp3-1\1.cpp(47,40): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\Exp3-1\Exp3-1\1.cpp(48,40): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\Exp3-1\Exp3-1\1.cpp(59,58): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\Exp3-1\Exp3-1\1.cpp(60,58): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\Exp3-1\Exp3-1\1.cpp(61,58): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\Exp3-1\Exp3-1\1.cpp(62,58): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+  Exp3-1.vcxproj -> C:\Users\86158\Desktop\Exp3-1\Debug\Exp3-1.exe

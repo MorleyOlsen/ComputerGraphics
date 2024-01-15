@@ -1,0 +1,10 @@
+﻿  2.cpp
+C:\Users\86158\Desktop\图形学实验3-1\Exp3-1\Exp3-1\2.cpp(156,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验3-1\Exp3-1\Exp3-1\2.cpp(156,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验3-1\Exp3-1\Exp3-1\2.cpp(156,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验3-1\Exp3-1\Exp3-1\2.cpp(156,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验3-1\Exp3-1\Exp3-1\2.cpp(159,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验3-1\Exp3-1\Exp3-1\2.cpp(159,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验3-1\Exp3-1\Exp3-1\2.cpp(159,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验3-1\Exp3-1\Exp3-1\2.cpp(159,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Exp3-1.vcxproj -> C:\Users\86158\Desktop\图形学实验3-1\Exp3-1\x64\Debug\Exp3-1.exe

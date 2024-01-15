@@ -1,0 +1,20 @@
+﻿  4.cpp
+C:\Users\86158\Desktop\Exp2-2\Exp2-2\4.cpp(11,1): warning C4005: “max”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(193): message : 参见“max”的前一个定义
+C:\Users\86158\Desktop\Exp2-2\Exp2-2\4.cpp(101,20): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\86158\Desktop\Exp2-2\Exp2-2\4.cpp(101,20): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\Exp2-2\Exp2-2\4.cpp(101,23): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\86158\Desktop\Exp2-2\Exp2-2\4.cpp(101,23): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\Exp2-2\Exp2-2\4.cpp(101,28): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\86158\Desktop\Exp2-2\Exp2-2\4.cpp(101,28): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\Exp2-2\Exp2-2\4.cpp(101,31): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\86158\Desktop\Exp2-2\Exp2-2\4.cpp(101,31): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\Exp2-2\Exp2-2\4.cpp(101,36): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\86158\Desktop\Exp2-2\Exp2-2\4.cpp(101,36): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\Exp2-2\Exp2-2\4.cpp(101,39): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\86158\Desktop\Exp2-2\Exp2-2\4.cpp(101,39): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\Exp2-2\Exp2-2\4.cpp(101,44): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\86158\Desktop\Exp2-2\Exp2-2\4.cpp(101,44): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\Exp2-2\Exp2-2\4.cpp(101,47): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\86158\Desktop\Exp2-2\Exp2-2\4.cpp(101,47): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+  Exp2-2.vcxproj -> C:\Users\86158\Desktop\Exp2-2\Debug\Exp2-2.exe

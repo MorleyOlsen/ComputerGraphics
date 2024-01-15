@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\86158\Desktop\Exp4-1\Exp4-1\源.cpp(76,42): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\Exp4-1\Exp4-1\源.cpp(77,48): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  Exp4-1.vcxproj -> C:\Users\86158\Desktop\Exp4-1\Debug\Exp4-1.exe

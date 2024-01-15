@@ -1,0 +1,14 @@
+﻿  2.1.cpp
+C:\Users\86158\Desktop\Exp2\Exp2\2.1.cpp(51,8): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\Exp2\Exp2\2.1.cpp(55,8): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\Exp2\Exp2\2.1.cpp(59,8): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\Exp2\Exp2\2.1.cpp(63,8): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\Exp2\Exp2\2.1.cpp(78,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\Exp2\Exp2\2.1.cpp(78,15): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\Exp2\Exp2\2.1.cpp(78,11): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\Exp2\Exp2\2.1.cpp(78,7): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\Exp2\Exp2\2.1.cpp(97,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\Exp2\Exp2\2.1.cpp(97,15): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\Exp2\Exp2\2.1.cpp(97,11): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\Exp2\Exp2\2.1.cpp(97,7): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  Exp2.vcxproj -> C:\Users\86158\Desktop\Exp2\Debug\Exp2.exe

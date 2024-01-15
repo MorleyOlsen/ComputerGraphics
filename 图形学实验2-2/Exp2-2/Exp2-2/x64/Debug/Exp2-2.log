@@ -1,0 +1,62 @@
+﻿  5.cpp
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(15,19): warning C4838: 从“float”转换到“LONG”需要收缩转换
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(15,19): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(15,22): warning C4838: 从“float”转换到“LONG”需要收缩转换
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(15,22): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(15,27): warning C4838: 从“float”转换到“LONG”需要收缩转换
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(15,27): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(15,30): warning C4838: 从“float”转换到“LONG”需要收缩转换
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(15,30): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(15,35): warning C4838: 从“float”转换到“LONG”需要收缩转换
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(15,35): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(15,38): warning C4838: 从“float”转换到“LONG”需要收缩转换
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(15,38): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(15,43): warning C4838: 从“float”转换到“LONG”需要收缩转换
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(15,43): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(15,46): warning C4838: 从“float”转换到“LONG”需要收缩转换
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(15,46): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(99,19): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(100,19): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(105,19): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(106,19): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(112,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(112,15): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(112,11): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(112,7): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(131,33): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(131,20): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(132,41): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(132,24): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(142,49): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(142,28): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(143,33): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(143,20): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(165,85): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(165,67): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(165,49): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(165,29): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(174,43): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(174,25): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(175,51): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(175,29): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(179,49): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(179,28): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(180,33): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(180,20): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(197,92): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(197,70): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(197,48): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(197,30): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(200,80): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(200,67): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(200,54): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(200,33): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(206,92): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(206,70): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(206,48): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(206,30): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(209,80): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(209,67): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(209,54): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\Exp2-2\5.cpp(209,33): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+  Exp2-2.vcxproj -> C:\Users\86158\Desktop\图形学实验2-2\Exp2-2\x64\Debug\Exp2-2.exe

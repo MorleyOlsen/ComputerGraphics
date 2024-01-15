@@ -1,0 +1,3 @@
+﻿  1.3.midpoint.cpp
+C:\Users\86158\Desktop\Exp1\Exp1\1.3.midpoint.cpp(27,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Exp1.vcxproj -> C:\Users\86158\Desktop\Exp1\Debug\Exp1.exe
